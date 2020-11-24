@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ko">
 
-<!-- Mirrored from daycare119.com/bbs/board.php?bo_table=gallery&wr_id=3&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
+<!--/bbs/board.php?bo_table=gallery&wr_id=3&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 <meta charset="utf-8">
@@ -449,7 +449,7 @@ $(function() {
 
 </body>
 
-<!-- Mirrored from daycare119.com/bbs/board.php?bo_table=gallery&wr_id=3&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
+<!--/bbs/board.php?bo_table=gallery&wr_id=3&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
 </html>
 
 <!-- 사용스킨 : theme/gallery -->
