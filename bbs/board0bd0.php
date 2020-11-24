@@ -114,8 +114,8 @@ var g5_cookie_domain = "";
 							<ul class="set3">
 								<li><a href="../theme/silver/service_info.html" target="_self">방문요양서비스</a>
 								</li>
-								<li><a href="../theme/silver/service_info02.html" target="_self">방문목욕서비스</a>
-								</li>
+								<!--<li><a href="../theme/silver/service_info02.html" target="_self">방문목욕서비스</a>
+								</li>-->
 							</ul>
 							<ul class="set4">
 								<li><a href="write4e45.html?bo_table=estimate" target="_self">온라인상담</a>
