@@ -175,7 +175,7 @@ var g5_cookie_domain = "";
 
     <section id="bo_v_info">
         <h2>페이지 정보</h2>
-        <span class="sound_only">작성자</span><span class="sv_member">행복한센터</span></strong>
+        <span class="sound_only">작성자</span><span class="sv_member">더바른재가복지센터</span></strong>
         <span class="sound_only">댓글</span><strong><a href="#bo_vc"> <i class="fa fa-commenting-o" aria-hidden="true"></i> 0건</a></strong>
         <span class="sound_only">조회</span><strong><i class="fa fa-eye" aria-hidden="true"></i> 44회</strong>
         <strong class="if_date"><span class="sound_only">작성일</span><i class="fa fa-clock-o" aria-hidden="true"></i> 19-09-29 06:09</strong>
