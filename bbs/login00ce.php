@@ -17,14 +17,14 @@
 <meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://daycafe119.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://thebaruncare.com/favicon.ico" type="image/x-icon">
 
 
 <title>로그인 | 더바른재가복지센터</title>
 <link rel="stylesheet" href="../theme/silver/css/mobilea68a.css?ver=171222">
 <link rel="stylesheet" href="../theme/silver/mobile/skin/member/basic/stylea68a.css?ver=171222">
 <!--[if lte IE 8]>
-<script src="http://daycare119.com/js/html5.js"></script>
+<script src="http://thebaruncare.com/js/html5.js"></script>
 <![endif]-->
 <script>
 // 자바스크립트에서 사용하는 전역변수 선언
@@ -53,7 +53,7 @@ var g5_cookie_domain = "";
 <div id="mb_login" class="mbskin">
     <h1>로그인</h1>
 
-    <form name="flogin" action="http://daycare119.com/bbs/login_check.php" onsubmit="return flogin_submit(this);" method="post" id="flogin">
+    <form name="flogin" action="http://thebaruncare.com/bbs/login_check.php" onsubmit="return flogin_submit(this);" method="post" id="flogin">
     <input type="hidden" name="url" value="http%3A%2F%2Fdaycare119.com%2Fbbs%2Fboard.php%3Fbo_table%3Destimate">
 
     <div id="login_frm">

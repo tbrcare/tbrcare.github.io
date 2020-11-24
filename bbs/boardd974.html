@@ -16,14 +16,14 @@
 <meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://daycafe119.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://thebaruncare.com/favicon.ico" type="image/x-icon">
 
 
 <title>장기요양인정 및 이용절차 > 공지사항 | 더바른재가복지센터</title>
 <link rel="stylesheet" href="../theme/silver/css/defaulta68a.css?ver=171222">
 <link rel="stylesheet" href="../theme/silver/skin/board/basic/stylea68a.css?ver=171222">
 <!--[if lte IE 8]>
-<script src="http://daycare119.com/js/html5.js"></script>
+<script src="http://thebaruncare.com/js/html5.js"></script>
 <![endif]-->
 <script>
 // 자바스크립트에서 사용하는 전역변수 선언

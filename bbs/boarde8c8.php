@@ -16,14 +16,14 @@
 <meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://daycafe119.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://thebaruncare.com/favicon.ico" type="image/x-icon">
 
 
 <title>갤러리 1 페이지 | 더바른재가복지센터</title>
 <link rel="stylesheet" href="../theme/silver/css/defaulta68a.css?ver=171222">
 <link rel="stylesheet" href="../theme/silver/skin/board/gallery/stylea68a.css?ver=171222">
 <!--[if lte IE 8]>
-<script src="http://daycare119.com/js/html5.js"></script>
+<script src="http://thebaruncare.com/js/html5.js"></script>
 <![endif]-->
 <script>
 // 자바스크립트에서 사용하는 전역변수 선언
@@ -177,7 +177,7 @@ var g5_cookie_domain = "";
             </div>
     <!-- } 게시판 페이지 정보 및 버튼 끝 -->
 
-    <form name="fboardlist"  id="fboardlist" action="http://daycare119.com/bbs/board_list_update.php" onsubmit="return fboardlist_submit(this);" method="post">
+    <form name="fboardlist"  id="fboardlist" action="http://thebaruncare.com/bbs/board_list_update.php" onsubmit="return fboardlist_submit(this);" method="post">
     <input type="hidden" name="bo_table" value="gallery">
     <input type="hidden" name="sfl" value="">
     <input type="hidden" name="stx" value="">
