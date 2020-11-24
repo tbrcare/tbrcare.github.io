@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="ko">
 
-<!-- Mirrored from daycare119.com/bbs/board.php?bo_table=notice&wr_id=2&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:14:01 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
@@ -399,7 +398,7 @@ function excute_good(href, $el, $tx)
 			</div>
 		</div>
 		<address id="addr">
-	  행복한 노인복지센터 (21594) 인천광역시 남동구 장승남로 33번길 23-1 203호  전화 : 032-461-1300 팩스 : 032-461-1309 <br>
+	  더바른재가복지센터 (21594) 인천광역시 남동구 장승남로 33번길 23-1 203호  전화 : 032-461-1300 팩스 : 032-461-1309 <br>
 	  개인정보관리자 : 강은숙     이메일 : ekf126@naver.com    Copyright © daycare119.com  .  All Rights Reserved
 	  </address>
 	
@@ -444,7 +443,6 @@ $(function() {
 
 </body>
 
-<!-- Mirrored from daycare119.com/bbs/board.php?bo_table=notice&wr_id=2&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:14:01 GMT -->
 </html>
 
 <!-- 사용스킨 : theme/basic -->
