@@ -366,18 +366,19 @@ var g5_cookie_domain = "";
 
 			</div>
 		</div>
-		<div class="info-detail">
-			<p>
-				<span>더바른재가복지센터(47789) 부산광역시 동래구 명안로25번길 33, 1층(안락동)</span>
-				<span class="mo-inline">고유등록번호 : 813-80-01498</span>
-			</p>
-			<p class="gap">
-				<span>센터주소 : (47789) 부산광역시 동래구 명안로25번길 33, 1층(안락동)</span>
-				<span>대표번호 : 070-4042-3375</span>
-				<span>팩    스 : 070-4062-3375</span>
-			</p>
-			<p class="copyright">Copyright © 더바른재가복지센터. All Rights Reserved.</p>
-		</div>
+		<address id="addr">
+		<p>
+			<span>더바른재가복지센터(47789) 부산광역시 동래구 명안로25번길 33, 1층(안락동)</span>
+			<span class="mo-inline">고유등록번호 : 813-80-01498</span>
+		</p>
+		<p class="gap">
+			<span>센터주소 : (47789) 부산광역시 동래구 명안로25번길 33, 1층(안락동)</span>
+			<span>대표번호 : 070-4042-3375</span>
+			<span>팩    스 : 070-4062-3375</span>
+		</p>
+		<p class="copyright">Copyright © 더바른재가복지센터. All Rights Reserved.</p>
+	</address>
+
 	
 	</div>
 </footer>
