@@ -1,0 +1,56 @@
+@charset "utf-8";
+.m_w100_wrap{ width:100%;}
+.m_w100_wrap .m_w100_padding{ background-color:#fff; margin:10px; border-radius:3px; padding:20px; display:flex; flex-wrap:wrap; align-content:flex-end;  }
+.m_w100_wrap .m_w100_padding .m_banner_box_01 {background-color:#9EFAFF; padding:10px;margin:5px; border-radius:20px;}
+
+.m_w100_wrap_01{ width:100%;font-size:14px;  0;font-weight:bold ;padding:10px 10px; }
+.m_w100_wrap_01 ul{ width:100%;   }
+.m_w100_wrap_01 ul li {float:left; width:33%; text-align:center; background-color:#AEE1EF;padding:10px; border: 1px solid #ccc;   }
+
+
+/*하단고정*/
+#m-wrapper {
+position:relative;	
+	}
+#m-quick-contact{
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 1000;
+	font-size:1.5em;
+	color:#fff;
+box-shadow: 0 0 10px #777;	
+	
+}
+
+#m-quick-contact ul{
+	width: 100%
+}
+#m-quick-contact ul li{
+	width: 50%
+}
+
+#m-quick-contact .estimate{
+	float: left;
+	width: 50%;
+	background-color: #ff3333;
+	padding:10px;
+	text-align:center;
+}
+
+
+#m-quick-contact .estimate a ,#m-quick-contact .call a{
+	color:#fff;
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25)
+
+}
+
+#m-quick-contact .call{
+	float: right;
+	width: 50%;
+	background-color: #3399ff;
+		padding:10px;
+			text-align:center;
+
+
+}
