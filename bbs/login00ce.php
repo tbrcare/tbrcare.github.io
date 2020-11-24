@@ -2,7 +2,7 @@
 <html lang="ko">
 
 <!-- Mirrored from daycare119.com/bbs/login.php?&url=http%3A%2F%2Fdaycare119.com%2Fbbs%2Fboard.php%3Fbo_table%3Destimate by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:57 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10,user-scalable=yes">

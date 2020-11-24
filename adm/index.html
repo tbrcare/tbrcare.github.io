@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ko">
 
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="imagetoolbar" content="no">

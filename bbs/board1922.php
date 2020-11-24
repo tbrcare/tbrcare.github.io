@@ -2,7 +2,7 @@
 <html lang="ko">
 
 <!-- Mirrored from daycare119.com/bbs/board.php?bo_table=gallery&page= by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="imagetoolbar" content="no">
