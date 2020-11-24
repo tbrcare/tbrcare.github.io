@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ko">
 
-<!--/bbs/view_image.php?fn=%2Fdata%2Feditor%2F1909%2F351749b8d1cd233936b459105d219b30_1569704936_8806.jpg by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
+<!--/bbs/view_image.php?fn=%2Fdata%2Feditor%2F1909%2F351749b8d1cd233936b459105d219b30_1569704936_8806.jpg /3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 <meta charset="utf-8">
@@ -135,5 +135,5 @@ $(function() {
 
 </body>
 
-<!--/bbs/view_image.php?fn=%2Fdata%2Feditor%2F1909%2F351749b8d1cd233936b459105d219b30_1569704936_8806.jpg by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
+<!--/bbs/view_image.php?fn=%2Fdata%2Feditor%2F1909%2F351749b8d1cd233936b459105d219b30_1569704936_8806.jpg /3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:59 GMT -->
 </html>

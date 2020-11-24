@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ko">
 
-<!--/bbs/write.php?bo_table=estimate&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:58 GMT -->
+<!--/bbs/write.php?bo_table=estimate&device=pc /3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:58 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 <meta charset="utf-8">
@@ -439,5 +439,5 @@ $(function() {
 
 </body>
 
-<!--/bbs/write.php?bo_table=estimate&device=pc by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:58 GMT -->
+<!--/bbs/write.php?bo_table=estimate&device=pc /3.x [XR&CO'2014], Mon, 23 Nov 2020 14:13:58 GMT -->
 </html>
