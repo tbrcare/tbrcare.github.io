@@ -8,19 +8,19 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10,user-scalable=yes">
 <meta name="HandheldFriendly" content="true">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="방문요양,방문목욕 전문센터 행복한노인복지센터 ">
-<meta name="keyword" content="방문요양, 재가센터, 장기요양, 치매, 요양보호사">
+<meta name="description" content="방문요양,방문목욕 전문센터 더바른재가복지센터 ">
+<meta name="keyword" content="방문요양, 재가센터, 장기요양, 요양보호사">
 <meta property="og:type" content="website">
-<meta property="og:title" content="행복한노인복지센터">
-<meta property="og:description" content="방문요양,방문목욕 행복한노인복지센터  ">
+<meta property="og:title" content="더바른재가복지센터">
+<meta property="og:description" content="방문요양,방문목욕 더바른재가복지센터  ">
 <meta property="og:image" content="../../ballpennara.com/sns-img.png">
-<meta property="og:url" content="행복한노인복지센터">
+<meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://daycafe119.com/favicon.ico" type="image/x-icon">
 
 
-<title>로그인 | 행복한노인복지센터</title>
+<title>로그인 | 더바른재가복지센터</title>
 <link rel="stylesheet" href="../theme/silver/css/mobilea68a.css?ver=171222">
 <link rel="stylesheet" href="../theme/silver/mobile/skin/member/basic/stylea68a.css?ver=171222">
 <!--[if lte IE 8]>

@@ -7,19 +7,19 @@
 <meta charset="utf-8">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="방문요양,방문목욕 전문센터 행복한노인복지센터 ">
-<meta name="keyword" content="방문요양, 재가센터, 장기요양, 치매, 요양보호사">
+<meta name="description" content="방문요양,방문목욕 전문센터 더바른재가복지센터 ">
+<meta name="keyword" content="방문요양, 재가센터, 장기요양, 요양보호사">
 <meta property="og:type" content="website">
-<meta property="og:title" content="행복한노인복지센터">
-<meta property="og:description" content="방문요양,방문목욕 행복한노인복지센터  ">
+<meta property="og:title" content="더바른재가복지센터">
+<meta property="og:description" content="방문요양,방문목욕 더바른재가복지센터  ">
 <meta property="og:image" content="../../ballpennara.com/sns-img.png">
-<meta property="og:url" content="행복한노인복지센터">
+<meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://daycafe119.com/favicon.ico" type="image/x-icon">
 
 
-<title>갤러리 1 페이지 | 행복한노인복지센터</title>
+<title>갤러리 1 페이지 | 더바른재가복지센터</title>
 <link rel="stylesheet" href="../theme/silver/css/defaulta68a.css?ver=171222">
 <link rel="stylesheet" href="../theme/silver/skin/board/gallery/stylea68a.css?ver=171222">
 <!--[if lte IE 8]>
@@ -202,7 +202,7 @@ var g5_cookie_domain = "";
                     </div>
                     <div class="gall_text_href">
                                                 <a href="boardb368.html?bo_table=gallery&amp;wr_id=3" class="bo_tit">
-                            행복한노인복지센터 전단지                                                                                 </a>
+                            더바른재가복지센터 전단지                                                                                 </a>
                     </div>
                     <div class="gall_name">
                         <span class="sound_only">작성자 </span><span class="profile_img"><span class="sv_member">행복한센터</span></span>
@@ -226,7 +226,7 @@ var g5_cookie_domain = "";
                     </div>
                     <div class="gall_text_href">
                                                 <a href="board3561.html?bo_table=gallery&amp;wr_id=2" class="bo_tit">
-                            행복한노인복지센터 실내                                                                                 </a>
+                            더바른재가복지센터 실내                                                                                 </a>
                     </div>
                     <div class="gall_name">
                         <span class="sound_only">작성자 </span><span class="profile_img"><span class="sv_member">행복한센터</span></span>
@@ -250,7 +250,7 @@ var g5_cookie_domain = "";
                     </div>
                     <div class="gall_text_href">
                                                 <a href="board983c.html?bo_table=gallery&amp;wr_id=1" class="bo_tit">
-                            행복한노인복지센터 배너                                                        <i class="fa fa-heart" aria-hidden="true"></i>                         </a>
+                            더바른재가복지센터 배너                                                        <i class="fa fa-heart" aria-hidden="true"></i>                         </a>
                     </div>
                     <div class="gall_name">
                         <span class="sound_only">작성자 </span><span class="profile_img"><span class="sv_member">행복한센터</span></span>
@@ -367,8 +367,8 @@ var g5_cookie_domain = "";
 			</div>
 		</div>
 		<address id="addr">
-	  더바른재가복지센터 (21594) 인천광역시 남동구 장승남로 33번길 23-1 203호  전화 : 032-461-1300 팩스 : 032-461-1309 <br>
-	  개인정보관리자 : 강은숙     이메일 : ekf126@naver.com    Copyright © daycare119.com  .  All Rights Reserved
+	  더바른재가복지센터 (21594) 부산광역시 동래구 명안로25번길 33, 1층(안락동)  전화 : 070-4042-3375 팩스 : 070-4062-3375 <br>
+	  개인정보관리자 : 이형인     이메일 : thebaruncare@gmail.com    Copyright © 더바른재가복지센터  .  All Rights Reserved
 	  </address>
 	
 	</div>
