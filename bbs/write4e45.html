@@ -338,7 +338,7 @@ if (!wr_content_editor.value) { alert("내용을 입력해 주십시오."); wr_c
         </nav><br>
 <br>
 
-      <img src="../theme/silver/images/sub_tel_icon.gif" width="200" height="74" alt=""/><img src="../theme/silver/images/sub_fax_icon.gif" width="200" height="73" alt=""/> </div>
+      <!--<img src="../theme/silver/images/sub_tel_icon.gif" width="200" height="74" alt=""/><img src="../theme/silver/images/sub_fax_icon.gif" width="200" height="73" alt=""/>--> </div>
     
   </div>
 </div>

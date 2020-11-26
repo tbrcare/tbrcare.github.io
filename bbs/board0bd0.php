@@ -347,7 +347,7 @@ function excute_good(href, $el, $tx)
         </nav><br>
 <br>
 
-      <img src="../theme/silver/images/sub_tel_icon.gif" width="200" height="74" alt=""/><img src="../theme/silver/images/sub_fax_icon.gif" width="200" height="73" alt=""/> </div>
+      <!--<img src="../theme/silver/images/sub_tel_icon.gif" width="200" height="74" alt=""/><img src="../theme/silver/images/sub_fax_icon.gif" width="200" height="73" alt=""/>--> </div>
     
   </div>
 </div>
