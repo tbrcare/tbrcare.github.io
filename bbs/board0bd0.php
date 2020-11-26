@@ -74,7 +74,7 @@ var g5_cookie_domain = "";
 	<header id="n_header">
 
 		<div id="n_header_tt">
-			<div id="n_header_tt_ct"><a href="../theme/silver/greeting.html">인사말</a> ㅣ <a href="../theme/silver/direction.html">오시는길</a> ㅣ <a href="board8497.html?bo_table=notice">공지사항</a> ㅣ<a href="../adm/index.html"> ADMIN</a>
+			<div id="n_header_tt_ct"><a href="../theme/silver/greeting.html">인사말</a> ㅣ <a href="../theme/silver/direction.html">오시는길</a> ㅣ <a href="board8497.html?bo_table=notice">공지사항</a> <!--ㅣ<a href="../adm/index.html"> ADMIN</a>-->
 			</div>
 		</div>
 		<div id="category-wrap">
