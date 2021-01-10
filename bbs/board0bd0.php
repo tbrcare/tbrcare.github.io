@@ -81,7 +81,7 @@ var g5_cookie_domain = "";
 			<nav id="gnb">
 				<h2>메인메뉴</h2>
 				<div class="main-wrapper clearfix">
-					<div class="top_logo"><a href="../index.html"><img src="../theme/silver/images/top_logo.png" width="268" height="74" alt="메인으로이동
+					<div class="top_logo"><a href="../index.html"><img src="../theme/silver/images/top_logo.png" width="220" height="67" alt="메인으로이동
 "/></a>
 					</div>
 					<ul class="main clearfix" style="float:right;">
