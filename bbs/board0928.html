@@ -16,7 +16,7 @@
 <meta property="og:url" content="더바른재가복지센터">
 <META http-equiv='cache-control' content='no-cache'>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://thebaruncare.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="theme/silver/img/favicon.ico" type="image/x-icon">
 
 
 <title>장기요양인정 및 이용절차 > 공지사항 | 더바른재가복지센터</title>
