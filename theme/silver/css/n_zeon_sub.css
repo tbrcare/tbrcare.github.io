@@ -2,25 +2,25 @@
 /* CSS Document */
 /*베이스아웃라인시작 */
 #n_sub_title_wrap_01{width:100%; margin:0 auto; background-color:#7ecbcf;min-width:1260px;}
-#n_sub_title_wrap_01 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_01.jpg) }
+#n_sub_title_wrap_01 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_01.png) }
 
 #n_sub_title_wrap_02{width:100%; margin:0 auto; background-color:#d2d16f ;min-width:1260px;}
-#n_sub_title_wrap_02 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_02.jpg) }
+#n_sub_title_wrap_02 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_02.png) }
 
 #n_sub_title_wrap_03{width:100%; margin:0 auto; background-color:#cf7e7e ;min-width:1260px;}
-#n_sub_title_wrap_03 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_03.jpg) }
+#n_sub_title_wrap_03 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_03.png) }
 
 #n_sub_title_wrap_04{width:100%; margin:0 auto; background-color:#84cf7e; min-width:1260px;}
-#n_sub_title_wrap_04 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_04.jpg) }
+#n_sub_title_wrap_04 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_04.png) }
 
 #n_sub_title_wrap_05{width:100%; margin:0 auto; background-color:#7ecfcc; min-width:1260px;}
-#n_sub_title_wrap_05 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_05.jpg) }
+#n_sub_title_wrap_05 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_05.png) }
 
 #n_sub_title_wrap_06{width:100%; margin:0 auto; background-color:#7ea2cf; min-width:1260px;}
-#n_sub_title_wrap_06 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_06.jpg) }
+#n_sub_title_wrap_06 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_06.png) }
 
 #n_sub_title_wrap_07{width:100%; margin:0 auto; background-color:#7ecbcf;min-width:1260px;}
-#n_sub_title_wrap_07 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_07.jpg) }
+#n_sub_title_wrap_07 #n_sub_title_ct{width:1260px;height:168px; margin:0 auto; background-image: url(../images/sub_head_title_07.png) }
 
 /*컨텐츠영역 */
 /*#n_hd_txt_wrap:after {display:block;visibility:hidden;clear:both;content:""}*/
