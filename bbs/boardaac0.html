@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10,user-scalable=yes">
 <meta name="HandheldFriendly" content="true">
 <meta name="format-detection" content="telephone=no">
-<meta name="description" content="방문요양 전문센터 더바른재가복지센터 ">
-<meta name="keyword" content="방문요양, 재가센터, 장기요양, 요양보호사">
+<meta name="description" content="부산 동래 방문요양 전문센터 더바른재가복지센터 ">
+<meta name="keyword" content="부산, 방문요양, 재가센터, 장기요양, 요양보호사">
 <meta property="og:type" content="website">
 <meta property="og:title" content="더바른재가복지센터">
 <meta property="og:description" content="방문요양 더바른재가복지센터  ">
