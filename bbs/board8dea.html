@@ -246,7 +246,7 @@ var g5_cookie_domain = "";
                 <div class="gall_con">
                     <div class="gall_img">
                         <a href="board983c.html?bo_table=gallery&amp;wr_id=1">
-                        <img src="../data/editor/1909/thumb-351749b8d1cd233936b459105d219b30_1569704893_4153_202x150.jpg" alt="" >                        </a>
+                        <img src="../data/editor/1909/thumb-351749b8d1cd233936b459105d219b30_1569704893_4153_202x150.png" alt="" >                        </a>
                     </div>
                     <div class="gall_text_href">
                                                 <a href="board983c.html?bo_table=gallery&amp;wr_id=1" class="bo_tit">
