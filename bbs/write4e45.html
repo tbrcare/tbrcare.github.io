@@ -349,7 +349,7 @@ if (!wr_content_editor.value) { alert("내용을 입력해 주십시오."); wr_c
 <!--  ---------------------------------------------------------------------------------------------------------- -->
 
 <div id="section_3">
-	<div id="section_ct"><a href="board8dea.html?bo_table=gallery"><img src="../theme/silver/images/low_banner_01.gif" width="384" height="175" alt="갤러리"/></a><img src="../theme/silver/images/low_banner_02.png" alt="연락처" width="341" height="175" title="연락처"/><a href="board8fc3.html?bo_table=notice&amp;wr_id=1"><img src="../theme/silver/images/low_banner_03.gif" alt="노인장기요양신청방법" width="202" height="175" title="노인장기요양신청방법"/></a>
+	<div id="section_ct"><a href="board8dea.html?bo_table=gallery"><img src="../theme/silver/images/low_banner_01.png" width="384" height="175" alt="갤러리"/></a><img src="../theme/silver/images/low_banner_02.png" alt="연락처" width="341" height="175" title="연락처"/><a href="board8fc3.html?bo_table=notice&amp;wr_id=1"><img src="../theme/silver/images/low_banner_03.gif" alt="노인장기요양신청방법" width="202" height="175" title="노인장기요양신청방법"/></a>
 
 <div class=n_main_box002>
 <a href="write4e45.html?bo_table=estimate"><img src="../theme/silver/images/low_banner_04.gif" alt="온라인문의하기" width="288" height="85" title="온라인문의하기"/></a>
