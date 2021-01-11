@@ -214,7 +214,7 @@ font-size:20px;
 .hidden{display:none;}
 
 /*헤더이미지*/
-.n_box_001{width:1000px; height:215px; background-image: url(../images/service_img_01.gif); background-repeat:no-repeat;}
+.n_box_001{width:0; height:0; background-image: url(../images/service_img_01.gif); background-repeat:no-repeat;}
 .n_box_002{width:1000px; height:215px; background-image: url(../images/service_img_02.gif); background-repeat:no-repeat;}
 .m_n_box_001{width:100%; background-image: url(../images/m_service_img_01.gif); background-repeat:no-repeat;}
 .m_n_box_002{width:1000px; height:215px; heignt:auto; background-image: url(../images/m_service_img_02.gif); background-repeat:no-repeat;}
